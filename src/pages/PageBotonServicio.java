@@ -36,7 +36,7 @@ public class PageBotonServicio {
 			e.printStackTrace();
 		}
 		driver.findElement(servicioButton).click();
-		driver.findElement(capacidadesButton).click();
+		//driver.findElement(capacidadesButton).click();
 	}
 	public void botonCapacidades() {
 		try {

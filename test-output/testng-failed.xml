@@ -5,9 +5,6 @@
     <classes>
       <class name="test.Servicio">
         <methods>
-          <include name="comohacemos"/>
-          <include name="servicio"/>
-          <include name="portafolio"/>
           <include name="afterTest"/>
           <include name="capacidades"/>
         </methods>
